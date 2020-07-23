@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DL_forgery_binary", "DL_forgery\DL_forgery_binary.pyproj", "{9C16FFB3-33E3-4FE9-91F5-2AAD0628F772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C16FFB3-33E3-4FE9-91F5-2AAD0628F772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C16FFB3-33E3-4FE9-91F5-2AAD0628F772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4FE883-DB0E-4A0A-8909-D163994AE7BD}
+	EndGlobalSection
+EndGlobal
